@@ -25,4 +25,4 @@ A distributed rate limiter, based on redis/lua and token-bucket algorithm.
 ```
 
 
-[demo](./demo.png)
+![demo](./demo.png)
